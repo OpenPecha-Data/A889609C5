@@ -1,0 +1,26 @@
+id: A889609C5
+title: 'RK: Bodhisatvapiṭaka'
+type: translation
+pechas:
+- IFF697754
+- IADED7DAD
+- ICBB0093B
+- I733B73EB
+- I644AC850
+- ID9E6EDE6
+source_metadata:
+  languages:
+  - sa
+  - bo
+  - zh
+  - en
+  datatype: PlainText
+  created_at: 2023-02-09 14:56:02.930366
+  last_modified_at: 2023-02-09 14:56:02.930383
+alignment_to_base:
+  IFF697754/77FD: '4227'
+  IADED7DAD/7A46: '4227'
+  ICBB0093B/FFE4: '4227'
+  I733B73EB/7AAA: '4227'
+  I644AC850/91B9: '4227'
+  ID9E6EDE6/3661: '4227'
